@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.MoneyBase.Cards.MappingViewer", "FS.MoneyBase.Cards.MappingViewer\FS.MoneyBase.Cards.MappingViewer.csproj", "{A17CA7DE-CE92-4DF9-ADD2-3C6C697E256D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Moneybase.Cards.Mappings", "FS.Moneybase.Cards.Mappings\FS.Moneybase.Cards.Mappings.csproj", "{0EC5C359-1AF3-4DFE-BA38-B7F0C7DC4659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.MoneyBase.Cards.Shared.UI", "FS.MoneyBase.Cards.Shared.UI\FS.MoneyBase.Cards.Shared.UI.csproj", "{12318B96-5B4B-4721-A4DC-5CBCA11E7D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17CA7DE-CE92-4DF9-ADD2-3C6C697E256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17CA7DE-CE92-4DF9-ADD2-3C6C697E256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17CA7DE-CE92-4DF9-ADD2-3C6C697E256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17CA7DE-CE92-4DF9-ADD2-3C6C697E256D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC5C359-1AF3-4DFE-BA38-B7F0C7DC4659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC5C359-1AF3-4DFE-BA38-B7F0C7DC4659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC5C359-1AF3-4DFE-BA38-B7F0C7DC4659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC5C359-1AF3-4DFE-BA38-B7F0C7DC4659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12318B96-5B4B-4721-A4DC-5CBCA11E7D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12318B96-5B4B-4721-A4DC-5CBCA11E7D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12318B96-5B4B-4721-A4DC-5CBCA11E7D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12318B96-5B4B-4721-A4DC-5CBCA11E7D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2087173-4A54-43A9-883C-CF00B6B01120}
+	EndGlobalSection
+EndGlobal
